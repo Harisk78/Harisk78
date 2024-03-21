@@ -6,4 +6,4 @@
 🖥️ Working in some mini projects...
 
 # 🌐Social:
-https://www.linkedin.com/in/hariharasudhan-sk-a53361249/
+<a href="https://www.linkedin.com/in/hariharasudhan-sk-a53361249/" class="button pill">Linked in</a>
