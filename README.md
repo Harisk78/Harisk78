@@ -6,4 +6,4 @@
 🖥️ Working in some mini projects...
 
 # 🌐Social:
-[<img src="[https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_Logo.svg&psig=AOvVaw2Ve8wb_GGVa3eIcUjsZMjU&ust=1711201859928000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDZz-yBiIUDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_Logo.svg&psig=AOvVaw2Ve8wb_GGVa3eIcUjsZMjU&ust=1711201859928000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDZz-yBiIUDFQAAAAAdAAAAABAE" width="100" style="border:1px solid black"/>](https://www.linkedin.com/in/hariharasudhan-sk-a53361249/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Wb7G67EcR44qT3KQLlLzI1Fna_L2lPXfTI1sx8_z2w&s" width="100px" height="20px" style="border:1px solid white"/>](https://www.linkedin.com/in/hariharasudhan-sk-a53361249/)
